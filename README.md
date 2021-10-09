@@ -10,5 +10,5 @@ I can be reached at my email thomasbabinec@gmail.com.
 Leetcode: 
 https://leetcode.com/tmb85/
 
-google scholar profile:
+Google Scholar profile:
 https://scholar.google.com/citations?user=Wxa2ifUAAAAJ&hl=en
